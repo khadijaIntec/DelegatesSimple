@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesSimple", "DelegatesSimple\DelegatesSimple.csproj", "{D6716471-0E1A-4B95-81D9-B6B17DFA75BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiCastDelegate", "MultiCastDelegate\MultiCastDelegate.csproj", "{01394858-272B-41AB-8808-C5424097AA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6716471-0E1A-4B95-81D9-B6B17DFA75BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6716471-0E1A-4B95-81D9-B6B17DFA75BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6716471-0E1A-4B95-81D9-B6B17DFA75BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6716471-0E1A-4B95-81D9-B6B17DFA75BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01394858-272B-41AB-8808-C5424097AA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01394858-272B-41AB-8808-C5424097AA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01394858-272B-41AB-8808-C5424097AA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01394858-272B-41AB-8808-C5424097AA62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6709A7F8-45FA-4054-8C80-6268DCC58689}
+	EndGlobalSection
+EndGlobal
